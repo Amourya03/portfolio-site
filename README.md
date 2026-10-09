@@ -2,7 +2,7 @@
 
 A responsive, single-page personal portfolio built with plain HTML, CSS and JavaScript. No framework and no build step.
 
-**Live site:** https://your-project.vercel.app  
+**Live site:** [https://your-project.vercel.app](https://portfolio-site-nine-sand-28.vercel.app/)  
 
 ## Features
 - Sections for About, Skills, Experience, Projects, Publication, Education and Contact
